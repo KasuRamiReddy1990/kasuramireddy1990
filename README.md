@@ -31,11 +31,11 @@ I am a Data Data Engineer at Bangalore India!
 
 💻 **Code carousel:** "saippuakivikauppias".That's the world's longest palindrome word which is used by Finnish people daily. And here you're not even able to pronounce it😂
 
-📄 **Resume** : [Click to view](kasuramireddy1990)
+📄 **Resume** : [Click to view](https://drive.google.com/file/d/1sc5t3Pq0oOvsRyWdL2rM-GHAms0-X1VZ/view?usp=sharing)
 
 **We can connect over:**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rami-reddy-kasu-b3baa6bb/)/)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rami-reddy-kasu-b3baa6bb/)&nbsp;
 ### Languages and Tools
 
 
