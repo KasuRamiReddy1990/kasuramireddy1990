@@ -5,7 +5,6 @@
 -->
 
 ### Hey there 👋 My name is Rami Reddy Kasu! 
-
 <!--
 **kasuramireddy1990/kasuramireddy1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +21,9 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Data Data Engineer at Bangalore India!
- 
+With 8 years of Exp working with huge Data to solve complex business problems, ability to write technical
+code and articulate in simple business terms with excellent communication skills. I am a full stack Data
+Engineer ability to perform Data Analysis, build production ready Bigdata Pipelines and apply ML algorithms.
 
 🌱 **I’m currently exploring:** Generative AI with Chat GPT
 
@@ -43,19 +43,19 @@ I am a Data Data Engineer at Bangalore India!
 ### Languages and Tools
 
 
-| Python | Spark | SQL | PLSQL | DBT |
-| :---: | :---: | :---: | :---: | :---: |
+| Python | Spark | SQL | PLSQL | DBT | Visual Basic (VBA)|
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
-| Selenium | C | SQL | Pytorch | Numpy |
+| Hadoop Ecosystem | HDFS | Spark | Oozie | Sqoop |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| VScode | Starburst | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Flask | NLTK | Spacy | AWS Machine Learning | Data Analysis |
+| Amazon S3 | Redhat OpenShift | Airflow | AWS Machine Learning | Data Analysis |
 | :---: | :---: | :---: | :---: | :---: |
 
