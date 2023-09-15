@@ -1,13 +1,9 @@
 <img align="right" alt="GIF" src="https://github.com/kasuramireddy1990/kasuramireddy1990/blob/master/gif.gif" width="360"/>
 
-<!--https://i.imgur.com/9GNZGLH.gif
-
--->
-
 ### Hey there 👋 My name is Rami Reddy Kasu! 
 
 <!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kasuramireddy1990/kasuramireddy1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,11 +31,11 @@ I am a Data Data Engineer at Bangalore India!
 
 💻 **Code carousel:** "saippuakivikauppias".That's the world's longest palindrome word which is used by Finnish people daily. And here you're not even able to pronounce it😂
 
-📄 **Resume** : [Click to view](https://drive.google.com/file/d/1YCWGZBhTN2fA8iefJ3qYcQx5K4thI8AT/view?usp=sharing)
+📄 **Resume** : [Click to view](kasuramireddy1990)
 
 **We can connect over:**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rami-reddy-kasu-b3baa6bb/)/)&nbsp;
 ### Languages and Tools
 
 
