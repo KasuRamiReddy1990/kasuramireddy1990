@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-With 8 years of Exp working with huge Data to solve complex business problems, ability to write technical
+With 9+ years of Exp working with huge Data to solve complex business problems, ability to write technical
 code and articulate in simple business terms with excellent communication skills. I am a full stack Data
 Engineer ability to perform Data Analysis, build production ready Bigdata Pipelines and apply ML algorithms.
 
